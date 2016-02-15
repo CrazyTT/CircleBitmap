@@ -1,15 +1,12 @@
 # 圆形头像
 
 
-![](https://github.com/CrazyTT/CircleBitmap/blob/master/pics/CEDD92E8-C946-4D4D-84FD-3C203474284E.png?raw=true)
-
 
 # 我的android开发技术交流群64288703
 # 崇尚开源，崇尚分享，欢迎各路大牛前来
 
-https://github.com/CrazyTT/CircleBitmap/blob/master/pics/CEDD92E8-C946-4D4D-84FD-3C203474284E.png?raw=true
 
-
+![](https://github.com/CrazyTT/CircleBitmap/blob/master/pics/CEDD92E8-C946-4D4D-84FD-3C203474284E.png?raw=true)
 
 
 #License
