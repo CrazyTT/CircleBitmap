@@ -1,7 +1,7 @@
 # 圆形头像
 
 
-
+![](https://github.com/CrazyTT/CircleBitmap/blob/master/pics/CEDD92E8-C946-4D4D-84FD-3C203474284E.png?raw=true)
 
 
 # 我的android开发技术交流群64288703
